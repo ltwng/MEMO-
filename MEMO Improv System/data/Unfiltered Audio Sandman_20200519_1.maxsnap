@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Unfiltered Audio Sandman",
+	"origin" : "Unfiltered Audio Sandman.vstinfo",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 1,
+	"snapshot" : 	{
+		"pluginname" : "Unfiltered Audio Sandman.vstinfo",
+		"plugindisplayname" : "Unfiltered Audio Sandman",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "876.CMlaKA....fQPMDZ....ALmaD0D....d.............................................L.LVMjLgbx....OSEjSD0TPNMUQTQURNczTf.Ga0cVZtYUYxMWZu4VOhDiKx3BLh.BbxU1bkQmSg0VY8HBQkYVX0wFch.BQkwVX40iHv3BM4jSMyDiLyjiL2DSL1LSNz.CMyHBHSEVavwVYREFck0iHwHBHFIWYkoWY8HBLh.BUk0FbuMUdtMVOhDiHfrTZrw1T2kFcigVOh.iHfLEcgIGcTkVak0iHvHBHE4FYTkVak0iHwHBHPklamA0atcVOhDiHfvzaisFQkwVX40iHvHBHL81XqYjbkUldk0iHvHBHDklbz0iHwHBHI41Qgkla8HBLtXSN4jSN4jCN3.yM4.yMw.CMzjiLh.hQkUFYhE1Xq0iHvHBHLA0P0Q2alYVOhDiHfPjb4cUYz0iHwHBHOUGcGEVZt0iHv3hM4jSN4jSN3fCL2jCL2DCLzPSNxHBHLYzSwTjagIFak0iHwHBHLYzSwXjbkEWOh.iKy.CLv.CLvDSL4HCL4HCN4TSMvfiHfvjQOEyUgYWY8HxTwUWXxUlHfvjQOEyT441X8HRLh.BSF8TLDUFagkWOh.iKzHSMyDCM3PyL1TCM1LiL0XCNyXiHfvjQOEyTzElbz0iHv3xLzbiM3TyL4XiM2DiL4TSL1XCLxHBHLYzSwTjaj0iHv3hL2DCNyPSL4PiM1.SL3XyM1bSM3HBHLYzSwLkT8HBLtHCM3XCLvbSMwDiMwTyM0LSL2LCNh.BSF8TLFUVYjIVXisVOh.iK0HBHLYzSxTjagIFak0iHwHBHLYzSxXjbkEWOh.iK0HBHLYzSxbUX1UVOhLUb0ElbkIBHLYzSxLUdtMVOhDiHfvjQOICQkwVX40iHv3hLzHiM3XyM4LiLvfSLxHiL0LCMxHBHLYzSxLEcgIGc8HBLtbCMxjiLwbiM4XSL3jCN3.yL2DSLh.BSF8jLE4FY8HBLtHCM4byL0XiM3LCLwTCNxLyL1PyLh.BSF8jLSIUOh.iK4HSL0TSL4PiL3HSMyDyMyfiL3DiHfvjQOIiQkUFYhE1Xq0iHv3RMh.hTk01a1U1Prk1XqMWOhDiHfPTZyAGagkWSuQVOhDiHu3C."
+	}
+
+}
