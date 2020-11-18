@@ -13,5 +13,5 @@ Please make sure that you install the following Max packages to run the patch sm
 
 These can all be found in the Package Manager in Max.
 
-Also, there is another object that I downloaded from the web, it’s called “Spindrift” by Michael Norris. Here is the link to download: http://www.michaelnorris.info/software/spindrift
+Also, there is another object called “Spindrift” by Michael Norris. Here is the link to download: http://www.michaelnorris.info/software/spindrift
 
